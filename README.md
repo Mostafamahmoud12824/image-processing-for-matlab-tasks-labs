@@ -1,5 +1,6 @@
 # image-processing-for-matlab-tasks-labs
 image-processing-for-matlab-tasks-labs
+# Tasks Lab
 Implement reverse mapping resize (0-order)
 Implement direct mapping resize (1-order)
 Implement Pixel Operations
@@ -24,3 +25,5 @@ Implement Smoothing Filters
 Implement Sharpening & Edge detection Filters
 Implement Frequancy Domain Filters
 Implement Image Restoration
+# Final project
+GUI the tasks in matlab
